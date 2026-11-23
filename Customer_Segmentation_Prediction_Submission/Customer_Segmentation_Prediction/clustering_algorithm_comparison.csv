@@ -1,0 +1,17 @@
+Algorithm,Parameters,Clusters,Noise points,Silhouette
+K-Means,k=2,2,0,0.16010478925193924
+Agglomerative,"k=2, linkage=ward",2,0,0.1588981142239814
+K-Means,k=3,3,0,0.14346121282648835
+Agglomerative,"k=3, linkage=ward",3,0,0.14346121282648835
+K-Means,k=4,4,0,0.1808087213235086
+Agglomerative,"k=4, linkage=ward",4,0,0.17780399829269516
+K-Means,k=5,5,0,0.1641766721627713
+Agglomerative,"k=5, linkage=ward",5,0,0.15286794507414328
+K-Means,k=6,6,0,0.15513114897073318
+Agglomerative,"k=6, linkage=ward",6,0,0.14268724724746049
+DBSCAN,"eps=0.8, min_samples=5",2,490,0.6100546737753401
+DBSCAN,"eps=1.0, min_samples=5",6,469,0.6030444756861484
+DBSCAN,"eps=1.2, min_samples=5",16,396,0.4125800267225026
+DBSCAN,"eps=1.5, min_samples=5",14,113,0.035304186593609836
+DBSCAN,"eps=1.8, min_samples=5",4,2,0.1812914460444968
+DBSCAN,"eps=2.0, min_samples=5",4,0,0.1808087213235086

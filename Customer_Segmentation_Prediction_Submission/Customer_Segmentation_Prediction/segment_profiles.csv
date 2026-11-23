@@ -1,0 +1,5 @@
+Segment,Customers,SharePercent,AvgTenure,AvgMonthlyCharges,AvgTotalCharges,ChurnRate,SeniorCitizenRate,PaperlessBillingRate,ChurnRatePercent,SegmentName
+0,125,25.0,36.728,116.816,4255.744,0.112,0.0,0.0,11.200000000000001,Established Higher-Spend
+1,117,23.4,36.026,106.735,4401.88,0.111,1.0,1.0,11.1,Newer / Shorter-Tenure
+2,132,26.4,35.417,109.394,4162.492,0.091,1.0,0.0,9.1,Newer / Shorter-Tenure
+3,126,25.2,37.976,121.333,4146.857,0.111,0.0,1.0,11.1,Established Higher-Spend
